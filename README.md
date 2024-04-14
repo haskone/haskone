@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hey there!
 
+Name's Kostiantyn, I'm a versatile Senior Software Engineer with 10+ years of full-stack expertise, passionate about innovating with Python, JS, Mobile & ML
+
+[![My Tech Stack](https://skillicons.dev/icons?i=react,vue,flutter,python,golang,docker,kubernetes,aws,tensorflow,postgresql,redis,rabbitmq)](https://skillicons.dev)
 <!--
 **haskone/haskone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
